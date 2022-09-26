@@ -159,15 +159,18 @@ li {
   }
 
   .header-logo{
-    font-size: 24px;
+    font-size: 18px;
     padding: 10px 20px;
     float: left;
   }
+
   .column {
     width: 100%;
     display: block;
   }
-
+  p {
+    font-size: 12px;
+  }
   footer {
     text-align: center;
   }
