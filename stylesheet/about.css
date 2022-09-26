@@ -183,15 +183,14 @@ li {
   .footer-list{
     float: right;
   }
-  .footer-list li {
-    padding-bottom: 10px;
+  .footer-list li{
+    padding-bottom: 5px;
     color:rgb(255, 255, 255);
   }
-
-  .footer-list li p{
+  /* .footer-list li p{
     color:rgb(255, 255, 255);
    
-  }
+  } */
 
 
 
