@@ -153,8 +153,8 @@ li {
   .header-navbar {
     padding: 20px, 7px;
     display: flex;
-    gap: 10px;
-    font-size: 10px;
+    gap: 5px;
+    font-size: 8px;
     border-bottom: rgba(14, 13, 13, 0.2) solid;
   }
 
