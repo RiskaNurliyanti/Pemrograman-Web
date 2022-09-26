@@ -41,7 +41,7 @@ li {
   display: flex;
   align-items: center;
   padding-left: 10px;
-  padding-right: 5%;
+  padding-right: 5px;
   justify-content: space-between;
 }
 
